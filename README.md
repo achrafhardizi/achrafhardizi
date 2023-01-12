@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @R0gueCS
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Desktop Development with JavaFx
+- 📫 How to reach me, contact me with achrafhardizi1002@gmail.com
