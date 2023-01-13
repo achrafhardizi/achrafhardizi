@@ -8,20 +8,39 @@ Frameworks / Libraries :
 
 ![React](https://img.shields.io/badge/angular-%23007FCC.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android-%23E34F26.svg?style=for-the-badge&logo=android&logoColor=white)
-     <p>langage de programmation : </p>
+     <p>langage de programmation et outils : </p>
      
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=jee&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%50ED8B00.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-     <p>Web developpement :</p>          
-     
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="left">
+     <a href="https://www.javascript.com/" target="_blank">
+          <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png" alt="javascript" width="50" height="40"/>
+     </a> 
+     <a href="https://www.w3.org/html/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+     </a>
+     <a href="https://www.w3schools.com/css/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+     </a>
+     <a href="https://git-scm.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+     </a>
+     <a href="https://www.java.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+     </a>
+     <a href="https://www.linux.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+     </a> 
+     <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+     <a href="https://postman.com" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+     </a>
+     <a href="https://tailwindcss.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+     </a> 
      <p>SGBD :</p>          
-<ul>
-     <li> MySQL </li>
-     <li> Oracle </li>
-</ul>
+     <ul>
+          <li> MySQL </li>
+          <li> Oracle </li>
+     </ul>
      <p>IDE / Code Editor :</p> 
      <img  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
