@@ -5,9 +5,11 @@
 <br>
 <br>
 Frameworks / Libraries :     
+
 ![React](https://img.shields.io/badge/angular-%23007FCC.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android-%23E34F26.svg?style=for-the-badge&logo=android&logoColor=white)
      <p>langage de programmation : </p>
+     
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=jee&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%50ED8B00.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
