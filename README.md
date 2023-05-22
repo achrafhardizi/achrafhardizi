@@ -43,6 +43,8 @@ Frameworks / Libraries :
          <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
      </div>
      <p>IDE / Code Editor :</p> 
+     <div style="display:flex;gap:0.25rem;">
      <img  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-     <img src="https://img.shields.io/badge/JetBrains%20IDEs-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" />
+     <img src="https://img.shields.io/badge/JetBrains%20IDEs-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+     </div>
 
