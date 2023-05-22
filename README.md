@@ -10,10 +10,9 @@
      <h3> langage de programmation et outils : </h3>
      
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <p align="left">
-     <a href="https://www.javascript.com/" target="_blank">
-          <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/javascript-logo.png" alt="javascript" width="50" height="40"/>
-     </a>
+  
      <a href="https://www.w3.org/html/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
      </a>
