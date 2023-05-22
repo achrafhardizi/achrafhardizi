@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/react-%23007FCC.svg?style=for-the-badge&logo=react&logoColor=white)
 ![REACTROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Android](https://img.shields.io/badge/android-%23E34F26.svg?style=for-the-badge&logo=android&logoColor=white)
-![POSTMAN](https://img.shields.io/badge/Postman-F6BB43?style=flat-square&logo=Postman&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/Postman-F6BB43?style=for-the-badge&logo=Postman&logoColor=white)
 
 <h3> langage de programmation : </h3>
      
@@ -35,12 +35,7 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![STYLEDCOMP](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<p align="left">
-     <a href="https://postman.com" target="_blank">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-     </a>
-</p>    
+  
 <h3> SGBD :</h3>
 
 ![MYSQl](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
