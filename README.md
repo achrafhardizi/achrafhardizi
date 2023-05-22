@@ -13,6 +13,7 @@
 ![React](https://img.shields.io/badge/React-%23007FCC.svg?style=for-the-badge&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%23E34F26.svg?style=for-the-badge&logo=android&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-Blue?style=for-the-badge&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F6BB43?style=for-the-badge&logo=postman&logoColor=black)
 
 ### 🚀 Programming Languages:
