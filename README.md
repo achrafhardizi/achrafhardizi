@@ -37,9 +37,11 @@ Frameworks / Libraries :
      <a href="https://tailwindcss.com/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
      </a> 
-     <p>SGBD :</p>          
+     <p>SGBD :</p>
+     <div style="display:flex;gap:0.25rem;">
          <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
          <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
+     </div>
      <p>IDE / Code Editor :</p> 
      <img  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
      <img src="https://img.shields.io/badge/JetBrains%20IDEs-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" />
