@@ -51,3 +51,8 @@
   
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JETBRAINS](https://img.shields.io/badge/JetBrains%20IDEs-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
+
+### Dev Socials:
+
+![CODEWARS](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
+![CODEPEN](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
