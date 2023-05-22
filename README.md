@@ -2,7 +2,7 @@
 <h2> 👀 I’m interested in Software Development </h2>
 <h2> 🌱 I’m currently working as an intern at ENSAF developing an Odoo application with python/postgresql </h2>
 <h2> 📫 How to reach me, contact me with <a href="achrafhardizi1002@gmail.com ">achrafhardizi1002@gmail.com </a> </h2>
-<hr>
+<br>
 <h3>  Frameworks / Libraries :</h3>     
 
 ![React](https://img.shields.io/badge/react-%23007FCC.svg?style=for-the-badge&logo=react&logoColor=white)
