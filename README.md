@@ -4,6 +4,7 @@
 <h3 > 📫 How to reach me, contact me with <a href="achrafhardizi1002@gmail.com ">achrafhardizi1002@gmail.com </a> </h1>
 <br>
 <br>
+<hr>
 Frameworks / Libraries :     
 
 ![React](https://img.shields.io/badge/react-%23007FCC.svg?style=for-the-badge&logo=react&logoColor=white)
