@@ -3,7 +3,7 @@
 <h3 > 🌱 I’m currently working as an intern at ENSAF developing an Odoo application with python/postgresql </h1>
 <h3 > 📫 How to reach me, contact me with <a href="achrafhardizi1002@gmail.com ">achrafhardizi1002@gmail.com </a> </h1>
 <hr>
-Frameworks / Libraries :     
+## Frameworks / Libraries :     
 
 ![React](https://img.shields.io/badge/react-%23007FCC.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Android](https://img.shields.io/badge/android-%23E34F26.svg?style=for-the-badge&logo=android&logoColor=white)
@@ -36,7 +36,7 @@ Frameworks / Libraries :
      <a href="https://tailwindcss.com/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
      </a> 
-     <p>SGBD :</p>
+## SGBD :
      <div style="display:flex;gap:0.25rem;">
          <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
          <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
