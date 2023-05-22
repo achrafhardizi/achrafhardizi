@@ -40,6 +40,7 @@
      <div style="display:flex;gap:0.25rem;">
          <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
          <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
+         <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
      </div>
      <p>IDE / Code Editor :</p> 
      <div style="display:flex;gap:0.25rem;">
