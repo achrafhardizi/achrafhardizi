@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi, I’m @R0gueCS </h1>
-<h3 > 👀 I’m interested in Software Development </h1>
-<h3 > 🌱 I’m currently working as an intern at ENSAF developing an Odoo application with python/postgresql </h1>
-<h3 > 📫 How to reach me, contact me with <a href="achrafhardizi1002@gmail.com ">achrafhardizi1002@gmail.com </a> </h1>
+<h2> 👀 I’m interested in Software Development </h2>
+<h2> 🌱 I’m currently working as an intern at ENSAF developing an Odoo application with python/postgresql </h2>
+<h2> 📫 How to reach me, contact me with <a href="achrafhardizi1002@gmail.com ">achrafhardizi1002@gmail.com </a> </h2>
 <hr>
 <h3>  Frameworks / Libraries :</h3>     
 
