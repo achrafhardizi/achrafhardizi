@@ -16,7 +16,6 @@
      <a href="https://www.typescriptlang.org/" target="_blank">
           <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="50" height="40"/>
      </a>
-
      <a href="https://www.w3.org/html/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
      </a>
