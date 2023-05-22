@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m @R0gueCS </h1>
-<h2> 👀 "I have a strong inclination towards software development with a particular focus on frontend development."</h2>
+<h2> 👀 I have a strong inclination towards software development with a particular focus on frontend development."</h2>
 <h2> 🌱 I’m currently working as an intern at ENSAF developing an Odoo application with python/postgresql </h2>
 <h2> 📫 How to reach me, contact me with <a href="achrafhardizi1002@gmail.com ">achrafhardizi1002@gmail.com </a> </h2>
 <br>
