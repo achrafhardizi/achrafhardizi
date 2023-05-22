@@ -7,7 +7,7 @@
 Frameworks / Libraries :     
 
 ![React](https://img.shields.io/badge/angular-%23007FCC.svg?style=for-the-badge&logo=react&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android-%23E34F26.svg?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/android-%23E34F26.svg?style=for-the-badge&logo=android&logoColor=white)
      <p>langage de programmation et outils : </p>
      
 <p align="left">
