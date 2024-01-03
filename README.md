@@ -10,7 +10,7 @@
 
 ![React](https://img.shields.io/badge/React-%23007FCC.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-purple?style=for-the-badge&logo=odoo&logoColor=white)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
 ### 🚀 Programming Languages:
 
