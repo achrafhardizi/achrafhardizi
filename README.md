@@ -9,15 +9,16 @@
 
 ### :building_construction: Frameworks / Libraries / Tools:
 
-![React](https://img.shields.io/badge/React-%23007FCC.svg?style=for-the-badge&logo=react&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-purple?style=for-the-badge&logo=odoo&logoColor=white)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+![Odoo](https://img.shields.io/badge/Odoo-ff66ff?style=for-the-badge&logo=odoo&logoColor=purple)
+![Spring](https://img.shields.io/badge/SpringBoot-092E20?style=for-the-badge&logo=Spring&logoColor=green)
+![Django](https://img.shields.io/badge/Django-007ACC?style=for-the-badge&logo=django&logoColor=darkblue)
 
 ### 🚀 Programming Languages:
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=darkblue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=darkblue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 💻 Operating Systems:
