@@ -1,10 +1,10 @@
-# 👋 Hi, I’m @R0gueCS
+# 👋 Hi, I’m @achrafhardizi
 
 ## 🌱 CyberSecurity Student, i like to code project in my free time
 
 ## 📫 Contact me at [achrafhardizi1002@gmail.com](mailto:achrafhardizi1002@gmail.com)
 
-![R0gueCS's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0gueCS&show_icons=true&hide_rank=true&custom_title=onTheGrind&show=prs_merged,prs_merged_percentage&theme=onedark&hide=issues,contribs)
+![Achrafhardizi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchrafHarduzu&show_icons=true&hide_rank=true&custom_title=onTheGrind&show=prs_merged,prs_merged_percentage&theme=onedark&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0gueCS&layout=compact&show_icons=true&theme=onedark)
 
 ### :building_construction: Frameworks / Libraries / Tools:
