@@ -4,9 +4,6 @@
 
 ## 📫 Contact me at [achrafhardizi1002@gmail.com](mailto:achrafhardizi1002@gmail.com)
 
-![Achrafhardizi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchrafHarduzu&show_icons=true&hide_rank=true&custom_title=onTheGrind&show=prs_merged,prs_merged_percentage&theme=onedark&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0gueCS&layout=compact&show_icons=true&theme=onedark)
-
 ### :building_construction: Frameworks / Libraries / Tools:
 
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
