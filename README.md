@@ -4,7 +4,7 @@
 
 ## 📫 Contact me at [achrafhardizi1002@gmail.com](mailto:achrafhardizi1002@gmail.com)
 
-## Check out my [GitHub Pages site](https://achrafhardizi/gh-pages) for more information and custom designs!
+## Check out my [GitHub Pages site](https://github.com/achrafhardizi/gh-pages) for more information and custom designs!
 
 ### :building_construction: Frameworks / Libraries / Tools:
 
