@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @achrafhardizi
+# 👋 Hi, I’m @achrafhardizi, Get to [know me more](https://achrafhardizi.github.io/about-me/)
 
 ## 🌱 CyberSecurity Student, i like to create content about dev in my free time
 
