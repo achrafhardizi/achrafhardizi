@@ -4,7 +4,7 @@
 
 ## 📫 Contact me at [achrafhardizi1002@gmail.com](mailto:achrafhardizi1002@gmail.com)
 
-## Check out my [Portfolio](https://achrafhardizi.github.io/my-portfolio/)
+## Check out my [Portfolio](https://achrafhardizi.github.io/about-me/)
 
 ### :building_construction: Frameworks / Libraries / Tools:
 
