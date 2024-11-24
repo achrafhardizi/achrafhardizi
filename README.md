@@ -21,7 +21,7 @@
 
 ###
 
-![Description of GIF](https://raw.githubusercontent.comachrafhardizi/achrafhardizi/main/meme.gif)
+![Meme](https://raw.githubusercontent.com/achrafhardizi/achrafhardizi/main/meme.gif)
 
 ###
 
