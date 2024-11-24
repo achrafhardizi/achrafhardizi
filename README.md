@@ -44,6 +44,7 @@
 ![Meme](https://raw.githubusercontent.com/achrafhardizi/achrafhardizi/main/meme.gif)
 
 </div>
+
 ---
 
 ![Snake animation](https://github.com/achrafhardizi/achrafhardizi/blob/main/dist/snake.svg)
