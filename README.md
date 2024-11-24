@@ -1,6 +1,11 @@
 <h2 align="left">Hi 👋! I'm Achraf Hardeasy and I'm a CS Student from Morocco</h2>
 
+---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wpin3cbf6kldk2567c3j3dykyi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 ###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=achrafhardizi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -8,11 +13,6 @@
 </div>
 
 ###
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wpin3cbf6kldk2567c3j3dykyi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-###
-
 <p align="left">Technologies i've work with:</p>
 
 ###
