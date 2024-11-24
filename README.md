@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/{achrafhardizi}/{achrafhardizi}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/achrafhardizi/achrafhardizi/blob/output/dist/snake.svg)
 
 ###
