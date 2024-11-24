@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @achrafhardizi, [Portfolio](http://www.achrafhardizi.me)
 
-## 🌱 CyberSecurity Student, i like to create content about dev in my free time
+## 🌱 Computer Science Student, i like to create content about dev in my free time
 
 ## 📫 Contact me at [achrafhardizi1002@gmail.com](mailto:achrafhardizi1002@gmail.com)
 
