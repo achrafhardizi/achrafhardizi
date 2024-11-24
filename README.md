@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/achrafhardizi/achrafhardizi/blob/output/dist/snake.svg)
+![Snake animation](https://github.com/achrafhardizi/achrafhardizi/blob/main/dist/snake.svg)
 
 ###
