@@ -17,7 +17,7 @@
 </div>
 
 ###
-<p align="left">Technologies i've work with:</p>
+<h2 align="left">Technologies i've work with:</p>
 
 ###
 
@@ -39,8 +39,11 @@
 
 ---
 
+<div align="center">
+  
 ![Meme](https://raw.githubusercontent.com/achrafhardizi/achrafhardizi/main/meme.gif)
 
+</div>
 ---
 
 ![Snake animation](https://github.com/achrafhardizi/achrafhardizi/blob/main/dist/snake.svg)
